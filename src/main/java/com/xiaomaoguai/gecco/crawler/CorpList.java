@@ -110,7 +110,10 @@ public class CorpList implements HtmlBean {
         //HttpGetRequest start = new HttpGetRequest("http://www.qichacha.com/search_index?key=%E6%B3%B0%E9%A1%BA%E5%8E%BF%2C%E5%85%AC%E5%8F%B8&index=0&statusCode=20&registCapiBegin=5000&registCapiEnd=&sortField=&isSortAsc=&province=ZJ&startDateBegin=&startDateEnd=&cityCode=3&industryCode=&subIndustryCode=&tel=&email=&ajaxflag=true&p=1");
 
         //瓯海区
-        HttpGetRequest start = new HttpGetRequest("http://www.qichacha.com/search_index?key=%E7%93%AF%E6%B5%B7%E5%8C%BA%2C%E5%85%AC%E5%8F%B8&index=0&statusCode=20&registCapiBegin=5000&registCapiEnd=&sortField=startdate&isSortAsc=false&province=ZJ&startDateBegin=&startDateEnd=&cityCode=3&industryCode=&subIndustryCode=&tel=&email=&ajaxflag=true&p=1");
+        //HttpGetRequest start = new HttpGetRequest("http://www.qichacha.com/search_index?key=%E7%93%AF%E6%B5%B7%E5%8C%BA%2C%E5%85%AC%E5%8F%B8&index=0&statusCode=20&registCapiBegin=5000&registCapiEnd=&sortField=startdate&isSortAsc=false&province=ZJ&startDateBegin=&startDateEnd=&cityCode=3&industryCode=&subIndustryCode=&tel=&email=&ajaxflag=true&p=1");
+
+        //瑞安市
+        HttpGetRequest start = new HttpGetRequest("http://www.qichacha.com/search_index?key=%E7%91%9E%E5%AE%89%E5%B8%82%2C%E5%85%AC%E5%8F%B8&index=0&statusCode=20&registCapiBegin=1&registCapiEnd=499&sortField=startdate&isSortAsc=false&province=ZJ&startDateBegin=&startDateEnd=&cityCode=3&industryCode=&subIndustryCode=&tel=&email=&ajaxflag=true&p=1");
 
 
         //
